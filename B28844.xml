@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reflections upon the present state of the nation.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28844</idno><idno type="EEBO-CITATION">99889737</idno>
+  <idno type="VID">186040</idno>
+  <idno type="EEBO-PROQUEST">2240916303</idno>
+  
+            <idno type="OCLC"> 11880814</idno>
+            <idno type="STC">Wing R733A</idno>
+            <idno type="STC">Interim Tract Supplement Guide T.100*[73]</idno>
+            <idno type="STC">ESTC R3153</idno>
+            <idno type="PROQUEST">ocm99889737</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99889737e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28844)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186040)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C3:2[72])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reflections upon the present state of the nation.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:186040:1"/>
+            <head>REFLECTIONS Upon the Present State of the NATION.</head>
+            <p>IT is a Maxim of the <hi>Law of England</hi> concerning the Government, That there is no <hi>Interregnum.</hi> Of necessity there must be a Change in the Per<g ref="char:EOLhyphen"/>son, yet there is a Continuation of the Government. Which shews the Pru<g ref="char:EOLhyphen"/>dence and Perfection of the Constitution, in preventing that, which of all things is most deplorable, a Failure of Government. This Rule is therefore of that importance, as not to be given up upon the trivial Saying of <hi>Nemo est haeres viventis.</hi>
+            </p>
+            <p>'Tis true, the common and ordinary cause of a Change in the Person that is invested with the <hi>Royal Authority,</hi> is Death.</p>
+            <p>But we are now in a rare and extraordinary Case, where the King is li<g ref="char:EOLhyphen"/>ving, and yet may be said to be divested of the <hi>Royal Office,</hi> as having by his Encroachments upon the Peoples Rights, provoked them to resort to Arms; and being vanquished by that Force, followed with a total Defection from him, and his relinquishing the Kingdom thereupon, without providing any ways for the Administration of the Government.</p>
+            <p>This seems to be a <hi>Cesser</hi> of this Government, and may in Civil and Poli<g ref="char:EOLhyphen"/>tick Construction amount to as much as if he had Died.</p>
+            <p>But because this is a <hi>Cess</hi> of that nature that requires a Judgment to be made upon it, it seems necessary to have a <hi>Convention</hi> of the Estates of the Nation, to make a Declaration thereupon (for 'tis not for private Persons to determine in the Cases aforesaid, how or when the King has lost his Government) and till such Authoritative Declaration made, the King may be supposed in some kind of possession of the Kingly Office.</p>
+            <p>But after the Judgment made and declared, there seems to be no difference in the consequence and result of the thing, between such an extraordinary case of the <hi>Cesser</hi> of the <hi>Royal Dignity,</hi> and the case of Death or voluntary Resignation; or as if the King had been profess'd and made himself a Recluse in a Religious House.</p>
+            <p>Then it must devolve upon the next Heir, her Royal Highness the Princess of <hi>Orange.</hi>
+            </p>
+            <p>As to the pretended Prince of <hi>Wales,</hi> if there had been no Suspicions as to his Birth, (as there are many violent ones) yet his being conveyed into un<g ref="char:EOLhyphen"/>known Places, by Persons in whom no credit can be reposed, and at an Age which exposes him to all manner of Practices and Impostures touching his
+<pb n="2" facs="tcp:186040:2"/>person; then can there hereafter be no manner of Certainty of him, so as to induce the Nation ever to consider any Pretence of that kind.</p>
+            <p>These things being considered;</p>
+            <p>First, Whether will not the declaring her Royal Highness <hi>Queen of Eng<g ref="char:EOLhyphen"/>land,</hi> as next in Succession, be the surest and best Foundation to begin our Settlement upon; rather than upon a groundless Conceit of the Government being devolved to the People, and so they to proceed to Elect a King?</p>
+            <p>Secondly, If that Conceit of devolving to the People be admitted, Whe<g ref="char:EOLhyphen"/>ther must we not conclude, that the Misgovernment of King <hi>JAMES</hi> the Second, hath not only determin'd his Royalty, but put a period to the Mo<g ref="char:EOLhyphen"/>narchy it self? And then 'tis not only a loss as to his Person, but to the whole Royal Family.</p>
+            <p>Thirdly, Whether those persons that have started this Notion, upon pre<g ref="char:EOLhyphen"/>tence of giving the Nation an opportunity of gratifying His Highness the PRINCE of <hi>ORANGE,</hi> in proportion to His Merits (which it must be acknowledged no Reward can exceed) if they were searched to the bottom, did not do it rather to undermine this Ancient and Hereditary Monarchy, and to give an Advantage to their Republican Principles, than out of any Affection and Gratitude to His Highness? For if the latter was that they had the chief respect to, would it not be the more proper way to declare her <hi>Royal Highness Queen,</hi> which will immediately put the Nation under a regular Constitution and posture of Government? Then it will be capable of expressing its Gratitude to the PRINCE of <hi>ORANGE,</hi> in matters touch<g ref="char:EOLhyphen"/>ing even the Royal Dignity it self, without making such a Stroke upon the Government, as the Electing of a King, or making any other immediate Alteration in the right of the Monarchy (before the Parliament is compleat<g ref="char:EOLhyphen"/>ed and constituted in all its parts) must amount unto.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
